@@ -1,44 +1,44 @@
-\# 🏦 ATM Banking System
+# 🏦 ATM Banking System
 
 
 
-\## 📝 Description
+## 📝 Description
 
 A fully functional ATM Banking System simulation built using 8086 Assembly Language.
 
 
 
-\## ✨ Features
+## ✨ Features
 
-\- 🔐 User Authentication (ID \& PIN verification)
+- 🔐 User Authentication (ID \& PIN verification)
 
-\- 💰 Balance Inquiry
+- 💰 Balance Inquiry
 
-\- 💵 Cash Deposit
+- 💵 Cash Deposit
 
-\- 💸 Cash Withdrawal
+- 💸 Cash Withdrawal
 
-\- 🔄 Balance Transfer between accounts
+- 🔄 Balance Transfer between accounts
 
-\- 📊 Transaction History (Last 5 transactions)
+- 📊 Transaction History (Last 5 transactions)
 
-\- 🚪 Logout functionality
-
-
-
-\## 🛠️ Technical Details
-
-\- \*\*Language:\*\* 8086 Assembly Language
-
-\- \*\*Model:\*\* SMALL
-
-\- \*\*Platform:\*\* DOS/DOSBox
-
-\- \*\*Assembler:\*\* MASM/TASM
+- 🚪 Logout functionality
 
 
 
-\## 🎮 Pre-configured Accounts
+## 🛠️ Technical Details
+
+- \*\*Language:\*\* 8086 Assembly Language
+
+- \*\*Model:\*\* SMALL
+
+- \*\*Platform:\*\* DOS/DOSBox
+
+- \*\*Assembler:\*\* MASM/TASM
+
+
+
+## 🎮 Pre-configured Accounts
 
 | Account ID | PIN  | Initial Balance |
 
@@ -52,21 +52,21 @@ A fully functional ATM Banking System simulation built using 8086 Assembly Langu
 
 
 
-\## 🚀 How to Run
+## 🚀 How to Run
 
-1\. Install DOSBox or any 8086 emulator
+1. Install DOSBox or any 8086 emulator
 
-2\. Mount the directory containing the .asm file
+2. Mount the directory containing the .asm file
 
-3\. Assemble: `masm Final\_Project\_ATM\_Banking.asm;`
+3. Assemble: `masm Final\_Project\_ATM\_Banking.asm;`
 
-4\. Link: `link Final\_Project\_ATM\_Banking.obj;`
+4. Link: `link Final\_Project\_ATM\_Banking.obj;`
 
-5\. Run: `Final\_Project\_ATM\_Banking.exe`
+5. Run: `Final\_Project\_ATM\_Banking.exe`
 
 
 
-\## 📸 Sample Usage
+## 📸 Sample Usage
 
 Enter the ID: 11
 
@@ -98,23 +98,23 @@ This project was developed as part of a Microprocessor/Computer Organization cou
 
 
 
-\## 👨‍💻 My Contribution
+## 👨‍💻 My Contribution
 
 I was responsible for implementing the \*\*Transaction History System\*\*, which includes:
 
-\- Circular buffer implementation (max 5 transactions)
+- Circular buffer implementation (max 5 transactions)
 
-\- Recording deposits, withdrawals, and transfers
+- Recording deposits, withdrawals, and transfers
 
-\- Displaying transaction history with proper formatting
+- Displaying transaction history with proper formatting
 
 
 
-\## 📧 Contact
+## 📧 Contact
 
-\- GitHub: \[@shafi456](https://github.com/shafi456)
+- GitHub: \[@shafi456](https://github.com/shafi456)
 
-\- Feel free to reach out for questions or collaboration!
+- Feel free to reach out for questions or collaboration!
 
 
 
