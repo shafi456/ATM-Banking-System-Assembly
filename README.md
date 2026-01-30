@@ -100,7 +100,7 @@ This project was developed as part of a Microprocessor/Computer Organization cou
 
 ## 👨‍💻 My Contribution
 
-I was responsible for implementing the \*\*Transaction History System\*\*, which includes:
+I was responsible for implementing the **Transaction History System**, which includes:
 
 - Circular buffer implementation (max 5 transactions)
 
@@ -112,7 +112,7 @@ I was responsible for implementing the \*\*Transaction History System\*\*, which
 
 ## 📧 Contact
 
-- GitHub: \[@shafi456](https://github.com/shafi456)
+- GitHub: [@shafi456](https://github.com/shafi456)
 
 - Feel free to reach out for questions or collaboration!
 
