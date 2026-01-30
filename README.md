@@ -28,13 +28,13 @@ A fully functional ATM Banking System simulation built using 8086 Assembly Langu
 
 ## 🛠️ Technical Details
 
-- \*\*Language:\*\* 8086 Assembly Language
+- **Language:** 8086 Assembly Language
 
-- \*\*Model:\*\* SMALL
+- **Model:** SMALL
 
-- \*\*Platform:\*\* DOS/DOSBox
+- **Platform:** DOS/DOSBox
 
-- \*\*Assembler:\*\* MASM/TASM
+- **Assembler:** MASM/TASM
 
 
 
@@ -80,13 +80,13 @@ Welcome to the Account: 11
 
 1. Show Balance
 
-2\. Deposit
+2. Deposit
 
-3\. Withdraw
+3. Withdraw
 
-4\. Balance Transfer
+4. Balance Transfer
 
-5\. Transaction History
+5. Transaction History
 
 6.Logout
 
@@ -118,7 +118,7 @@ I was responsible for implementing the \*\*Transaction History System\*\*, which
 
 
 
-\## 📄 License
+## 📄 License
 
 This project is for educational purposes.
 
